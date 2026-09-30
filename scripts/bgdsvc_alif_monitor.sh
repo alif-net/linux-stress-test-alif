@@ -1,5 +1,5 @@
 #!/bin/bash
-SVC_NAME="bgdsvc_alif          # same name exported in Part 1
+SVC_NAME="bgdsvc_alif"          # same name exported in Part 1
 LOGFILE="/var/log/${SVC_NAME}/monitor.log"
 echo "---- $(date) ----" >> "$LOGFILE"
 free -h >> "$LOGFILE"
