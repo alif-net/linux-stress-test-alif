@@ -4,3 +4,4 @@
 - Part 5: SSH hardened (port 2222, no root login, no passwords, AllowUsers)
 - Part 6: cron monitor every 5 min, cleanup every night at 02:00
 - Part 6: cron monitor every 5 min, cleanup every night at 02:00
+- Part 7: logrotate daily, keep 5, compress, 10M
