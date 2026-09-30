@@ -5,3 +5,4 @@
 - Part 6: cron monitor every 5 min, cleanup every night at 02:00
 - Part 6: cron monitor every 5 min, cleanup every night at 02:00
 - Part 7: logrotate daily, keep 5, compress, 10M
+- Part 8: reverse-order cleanup, verified clean
